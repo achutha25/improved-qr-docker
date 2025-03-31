@@ -1,10 +1,8 @@
 venv
-images
 .python_history# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-qr_codes
 # C extensions
 *.so
 
